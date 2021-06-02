@@ -12,3 +12,6 @@ how to run project:
 client : SudokuProject/ClientSide/app/src/main/java/com/example/sudokuclient/*.kt
 
 server : SudokuProject/ServerSide/src/*.java
+
+# Video of running the program
+https://drive.google.com/file/d/1WdLNIWP0XGxqczN3TrEYnHV8a1DwEaq2/view?usp=sharing
