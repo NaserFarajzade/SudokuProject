@@ -1,4 +1,4 @@
-# SudokuProject by naser farajzade
+# SudokuProject
 
 how to run project: 
 
@@ -15,3 +15,5 @@ server : SudokuProject/ServerSide/src/*.java
 
 # Video of running the program
 https://drive.google.com/file/d/1WdLNIWP0XGxqczN3TrEYnHV8a1DwEaq2/view?usp=sharing
+
+//contributed by naser farajzade
