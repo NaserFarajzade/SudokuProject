@@ -6,3 +6,5 @@ how to run project:
 2- Then enter ip & port shown in server app in the client side
 3-Enjoy sudoku :)
 
+# important files 
+server : 
