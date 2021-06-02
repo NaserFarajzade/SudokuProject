@@ -7,4 +7,5 @@ how to run project:
 3-Enjoy sudoku :)
 
 # important files 
-server : 
+client : SudokuProject/ClientSide/app/src/main/java/com/example/sudokuclient/*.kt
+server : SudokuProject/ServerSide/src/*.java
