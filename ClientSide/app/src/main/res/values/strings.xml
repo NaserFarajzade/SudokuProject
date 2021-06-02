@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SudokuClient</string>
+    <string name="title_activity_first_page">SUDOKU</string>
+</resources>
